@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+#
+# parquet-2-csv.py
+# michael.taylor@cefas.gov.uk 
+# 31 Oct 2025
 """
 parquet-2-csv.py — Convert a .parquet file to CSV (Excel-friendly) or XLSX.
 
